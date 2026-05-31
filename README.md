@@ -1,6 +1,6 @@
 # hospital_data_insights
 
-It's a healthcare dataset to extract meaningful business insights. Using various SQL functions, aggregations, and clauses, I successfully tackled problems such as: 
+It's a healthcare <a href="https://github.com/Kanchan-Singh25/hospital_data_insights/blob/main/Hospital_Data.csv">dataset</a> to extract meaningful business insights. Using various SQL functions, aggregations, and clauses, I successfully tackled problems such as: 
 
 Aggregations & Grouping: Calculating total patient counts, tracking average         medical expenses, and identifying the highest/lowest traffic departments. 
 

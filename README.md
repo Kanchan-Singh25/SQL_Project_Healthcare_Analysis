@@ -1,11 +1,17 @@
-# hospital_data_insights
+# Healthcare Analysis using SQL
+<h2>Project objective</h2>
+The objective is to use SQL to analyze a hospital dataset and answer 10 specific business questions.  
 
-It's a healthcare <a href="https://github.com/Kanchan-Singh25/hospital_data_insights/blob/main/Hospital_Data.csv">dataset</a> to extract meaningful business insights. Using various SQL functions, aggregations, and clauses, I successfully tackled problems such as: 
+<h2>Dataset used</h2>
+<a href="https://github.com/Kanchan-Singh25/SQL_Project_Healthcare_Analysis/blob/main/Hospital_Data.csv">Dataset</a>
 
-Aggregations & Grouping: Calculating total patient counts, tracking average         medical expenses, and identifying the highest/lowest traffic departments. 
+<h2>Database & Tool</h2>
 
-Time-Series Analysis: Extracting day/month trends from date fields to generate structured monthly medical expense reports. 
+Postgre SQL
 
-Data Metrics: Calculating operational metrics like the average length of patient stays by computing differences between admission and discharge dates. 
+PgAdmin4
 
-<a href="https://github.com/Kanchan-Singh25/hospital_data_insights/blob/main/Hospital_insights.sql">Sql queries</a>
+<h2>Questions & solution</h2>
+<a href="https://github.com/Kanchan-Singh25/SQL_Project_Healthcare_Analysis/blob/main/Hospital_insights.sql">view</a>
+
+
